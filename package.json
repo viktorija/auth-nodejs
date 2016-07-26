@@ -1,0 +1,35 @@
+{
+  "name": "auth-workshop-node",
+  "version": "1.0.0",
+  "description": "Auth workshop",
+  "main": "start.js",
+  "scripts": {
+    "start": "node start.js",
+    "start-dev": "nodemon start.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liucijus/auth-workshop-node.git"
+  },
+  "license": "Apache-2.0",
+  "author": "Vaidas Pilkauskas",
+  "bugs": {
+    "url": "https://github.com/liucijus/auth-workshop-node/issues"
+  },
+  "homepage": "https://github.com/liucijus/auth-workshop-node#readme",
+  "dependencies": {
+    "applicationinsights": "^0.15.17",
+    "bcryptjs": "^2.3.0",
+    "bluebird": "^3.4.1",
+    "body-parser": "^1.15.2",
+    "cookie": "^0.3.1",
+    "crypto-js": "^3.1.6",
+    "ejs": "^2.4.2",
+    "express": "^4.14.0",
+    "tingodb": "^0.4.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.9.2"
+  }
+}

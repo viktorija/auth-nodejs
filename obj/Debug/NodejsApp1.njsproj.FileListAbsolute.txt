@@ -1,0 +1,2 @@
+C:\Users\viktorija.maliskaite\auth-workshop-node\obj\Debug\NodejsApp1.njsprojResolveAssemblyReference.cache
+C:\Users\viktorija.maliskaite\auth-workshop-node\bin\Microsoft.NodejsTools.WebRole.dll
